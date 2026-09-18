@@ -1,5 +1,5 @@
 import Mathlib.Data.Finset.Prod
-import Mathlib.Order.Interval.Finset.Int
+import Mathlib.Data.Int.Interval
 import Mathlib.Algebra.Ring.Parity
 
 /-!
