@@ -1,0 +1,29 @@
+specVersion: "1"
+id: lax-712553
+leanVersion: "v4.33.0"
+mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
+title: "Congruent number curves: the quadratic twist formula for a_p and the parity of Tunnell's representation counts"
+authors:
+  - name: Joel Cruz Cabrera
+    orcid: "0009-0005-4048-1237"
+    github: joelcanary
+bibEntries:
+  - |
+    @article{tunnell1983,
+      author = {Tunnell, Jerrold B.},
+      title = {A classical Diophantine problem and modular forms of weight 3/2},
+      journal = {Inventiones Mathematicae},
+      volume = {72},
+      year = {1983},
+      pages = {323--334}
+    }
+  - |
+    @book{koblitz1993,
+      author = {Koblitz, Neal},
+      title = {Introduction to Elliptic Curves and Modular Forms},
+      publisher = {Springer},
+      series = {Graduate Texts in Mathematics},
+      volume = {97},
+      edition = {2},
+      year = {1993}
+    }

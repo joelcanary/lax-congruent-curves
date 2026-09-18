@@ -1,0 +1,3 @@
+import Lax712553Proofs.Involution
+import Lax712553Proofs.QuadraticTwist
+import Lax712553Proofs.TunnellParity
