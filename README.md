@@ -55,7 +55,14 @@ The pins are in `manifest.yaml`; the archive's build of this commit
 ## Related
 
 - The four records and their live counts: https://kodamaseclabs.com/publications
-- Preprint: *Computational Results on the Congruent Number Family*, doi:10.5281/zenodo.21535499.
+- Preprint: *Computational Results on the Congruent Number Family: E_n : y^2 = x^3 - n^2 x*, [doi:10.5281/zenodo.21535499](https://doi.org/10.5281/zenodo.21535499).
+
+## Further references
+
+These are references for the reader of this repository. The record's own text and bibliography (`abstract.md`, `manifest.yaml`) are fixed by the registration; a correction there would be a new record that supersedes this one.
+
+- J. B. Tunnell, *A classical Diophantine problem and modular forms of weight 3/2*, Invent. Math. 72 (1983) 323–334. [doi:10.1007/BF01389327](https://doi.org/10.1007/BF01389327)
+- N. Koblitz, *Introduction to Elliptic Curves and Modular Forms*, 2nd ed., GTM 97, Springer (1993). [doi:10.1007/978-1-4612-0909-6](https://doi.org/10.1007/978-1-4612-0909-6)
 
 ## Use of AI
 
